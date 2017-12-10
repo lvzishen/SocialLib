@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_alpha_80">#CC000000</color>
+    <color name="black_alpha_75">#BF000000</color>
+    <color name="black_alpha_70">#B3000000</color>
+    <color name="black_alpha_65">#A6000000</color>
+    <color name="black_alpha_60">#99000000</color>
+    <color name="black_alpha_50">#80000000</color>
+    <color name="black_alpha_40">#66000000</color>
+    <color name="black_alpha_30">#4D000000</color>
+    <color name="black_alpha_20">#33000000</color>
+    <color name="home_weiboitem_content_keyword">#507daf</color><!--关键词的颜色-->
+
+    <color name="dialog_button_pressed">#0A000000</color>
+    <color name="dialog_title_color">#5E5E5E</color>
+    <color name="dialog_text_color">#474747</color>
+    <color name="dialog_title_divider_color">#cccccc</color>
+    <color name="dialog_divider_color">#DADADA</color>
+    <color name="dialog_button_text_color">#AF000000</color>
+
+    <color name="primary">#050600</color>
+    <color name="primary_dark">#050600</color>
+    <color name="accent">#050600</color>
+    <color name="primaryText">#ffffff</color>
+    <color name="list_item_pressed_color">#f7f7f7</color>
+
+    <color name="activites_story">#FF2D2D2D</color>
+    <color name="dialog_title">#FF9B9B9B</color>
+    <color name="huodong_spinner_background_normal">#2d2d2d</color>
+    <color name="activity_background">#FFFFFF</color>
+    <color name="translucent_black_60">#66000000</color>
+    <color name="activity_background_gray">#f7f7f7</color>
+    <color name="title_item_background_normal">#00000000</color>
+    <color name="title_item_background_pressed">#33FFFFFF</color>
+    <color name="tab_text_color">#999999</color>
+    <color name="account_login">#1A999999</color>
+    <color name="divider_color">#D8D8D8</color>
+    <color name="tab_text_color_selected">#000000</color>
+    <color name="tab_background">#FCFCFC</color>
+    <color name="tab_split_color">#D6D6D6</color>
+    <color name="login_pop_color">#FF5454</color>
+    <color name="button_normal">#ff5722</color>
+    <color name="button_pressed">#ccff5722</color>
+    <color name="text_code">#FF999999</color>
+    <color name="mine_divder">#FFE5E5E5</color>
+    <color name="transparent">#00000000</color>
+    <color name="about_size_color">#FF001A36</color>
+    <color name="main_gray">#9A9A9A</color>
+    <color name="main_black">#353535</color>
+    <color name="gray_background">#FaFaFa</color>
+    <color name="list_item_background_normal">#ffffff</color>
+    <color name="list_item_background_pressed">#F1F1F1</color>
+    <color name="list_my_divider_color">#d9d9d9</color>
+
+    <color name="text_ticket_detail_gray">#FF888888</color>
+    <color name="text_color">#FF4D7BFF</color>
+    <color name="text_dark">#af000000</color>
+    <color name="text_light">#3f000000</color>
+    <color name="light_gray">#1a000000</color>
+    <color name="bg_touch">#0a000000</color>
+    <color name="activites_buy_date">#FFF7F7F7</color>
+
+    <color name="hint_address">#FF3F3F3F</color>
+    <color name="home_title_search">#80FFFFFF</color>
+    <color name="activites_release_text">#FFB7B7B7</color>
+    <color name="activites_name_tag">#FFEEEEEE</color>
+    <color name="activites_about_info">#FFF8F8F8</color>
+    <color name="ticket_detail_background">#55ADADAD</color>
+    <color name="dash_line">#e6e6e6</color>
+    <color name="mine_text">#FF333333</color>
+    <color name="default_image">#eaeaea</color>
+    <color name="crop_blue_unselect">#FF0047FF</color>
+    <color name="crop_blue_select">#002B9C</color>
+    <color name="white40">#40FFFFFF</color>
+    <color name="discovery_list_color">#FFD8D8D8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_change_password">#FFCCCCCC</color>
+    <color name="title_gray">#EEEEEE</color>
+    <color name="title_unselect">#666666</color>
+    <color name="black">#000000</color>
+
+    <color name="login_black">#101010</color>
+    <color name="gray">#666666</color>
+    <color name="address_default_blue">#FF658DFF</color>
+    <color name="gray_register">#bbbbbb</color>
+    <color name="red">#FF0000</color>
+    <color name="orange">#FA7500</color>
+    <color name="yellow">#F0D600</color>
+    <color name="green">#00D096</color>
+    <color name="use_other_gray">#B9B9B9</color>
+    <color name="activitesbuy_divder">#FFDADADA</color>
+    <color name="blue">#00ADF2</color>
+    <color name="pink">#FF66FF</color>
+    <color name="phone_account">#FF666666</color>
+    <color name="purple">#9933CC</color>
+    <color name="activites_answer">#FF4A4A4A</color>
+    <color name="comment_message_gray">#4A4A4A</color>
+    <color name="activites_gray">#FF3A3A3A</color>
+    <color name="activites_price">#FFFF5252</color>
+    <color name="coupon_explain_bottom">#FF4172FF</color>
+    <color name="orange_coupon">#FFF6A623</color>
+    <color name="apply_disable">#333333</color>
+    <color name="apply_enable">#f75a53</color>
+    <color name="dialog_text_red">#FFFF5454</color>
+    <color name="selector_light">#50ffffff</color>
+    <color name="selector_light_stroke">#70ffffff</color>
+    <color name="selector_dark">#30000000</color>
+    <color name="selector_dark_stroke">#50000000</color>
+    <color name="order_detail_ticket_gray">#FFA2A2A2</color>
+
+    <color name="update_finish_color">#44DB5E</color> <!--更新完成字体颜色 -->
+    <color name="update_error_color">#FE3824</color> <!--更新失败颜色 -->
+    <color name="update_textcolor">#0076FF</color> <!--更新字体颜色 -->
+    <color name="update_line">#D9D9D9</color> <!-- 更新框线 -->
+    <color name="update_textdesc">#9DCAF7</color> <!-- 更新描述信息 -->
+    <color name="update_text_pressed">#DCDCDC</color> <!-- 更新按钮信息 -->
+
+    <color name="message_comment_text_yellow">#FFA81F</color>
+    <color name="message_text_title">#001B37</color>
+    <!--优惠券-->
+    <color name="coupon_text_disable">#EBEBEB</color>
+    <color name="coupon_text_press">#9AB0E8</color>
+    <color name="coupon_text_color">#9B9B9B</color>
+    <color name="coupon_edit_stroke_nor">#CDCDCD</color>
+    <color name="coupon_edit_stroke_pre">#0047FF</color>
+    <color name="coupon_edit_btn_pre">#003ACC</color>
+    <color name="coupon_edit_btn_enable">#0047FF</color>
+    <color name="coupon_under_background">#FBFBFE</color>
+    <color name="coupon_stroke_width_color">#E5E5E5</color>
+
+    <!--有盐新版色值 -->
+    <!-- 重要 -->
+    <color name="important_indicative_text_color">#001A37</color>
+    <color name="important_indicative_btn_color">#FFA81F</color>
+    <color name="important_indicative_btntext_color">#FFFFFF</color>
+    <color name="important_indicative_btnpress_color">#CC8718</color>
+    <color name="important_indicative_btnpresstext_color">#EACFA2</color>
+    <color name="important_indicative_btndisable_color">#F0F0F0</color>
+    <color name="important_indicative_btndisabletext_color">#BDBDBD</color>
+    <!-- 一般 -->
+    <color name="normal_indicative_text_color">#000000</color>
+    <color name="normal_indicative_title_color">#D8D8D8</color>
+    <color name="normal_paragraph_text_color">#4A4A4A</color>
+    <color name="normal_indicative_assist_color">#999999</color>
+    <color name="normal_indicative_shape_color">#EEEFF4</color>
+    <!-- 较弱 -->
+    <color name="weak_title_divider_color">#CCCCCC</color>
+    <color name="weak_common_divider_color">#E5E5E5</color>
+    <color name="common_background_color">#FBFBFE</color>
+    <!-- 其他 -->
+    <color name="alarming_text_color">#FF5252</color>
+    <color name="weak_black_color">#222222</color>
+    <color name="link_text_color">#4A90E2</color>
+    <color name="click_orange">#FFEDD1</color>
+    <!--次级按钮 -->
+    <color name="weak_btn_press_color">#CC8618</color>
+    <color name="weak_btn_presstext_color">#EACFA2</color>
+    <color name="weak_btn_presstexttwo_color">#FFEDD1</color>
+</resources>

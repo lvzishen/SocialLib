@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context="com.ifengart.sociallib.MainActivity">
+
+    <FrameLayout
+        android:id="@+id/activity_login_wechat_btn"
+        android:layout_width="@dimen/dimens_48px"
+        android:layout_height="@dimen/dimens_48px">
+
+        <ImageView
+            android:layout_width="@dimen/dimens_24px"
+            android:layout_height="@dimen/dimens_24px"
+            android:background="@drawable/ic_login_wechat" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/activity_login_qq_btn"
+        android:layout_width="@dimen/dimens_48px"
+        android:layout_height="@dimen/dimens_48px"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true">
+
+        <ImageView
+            android:layout_width="@dimen/dimens_24px"
+            android:layout_height="@dimen/dimens_24px"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/ic_login_qq" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/activity_login_weibo_btn"
+        android:layout_width="@dimen/dimens_48px"
+        android:layout_height="@dimen/dimens_48px"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true">
+
+        <ImageView
+            android:layout_width="@dimen/dimens_24px"
+            android:layout_height="@dimen/dimens_24px"
+            android:layout_gravity="right"
+            android:background="@drawable/ic_login_weibo" />
+    </FrameLayout>
+
+</LinearLayout>
